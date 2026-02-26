@@ -4,8 +4,8 @@ import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Work from "./pages/Work";
-import Contact from "./pages/Contact";
-
+//import Contact from "./pages/Contact";
+import Contact from "./components/Contact";
 
 
 function App() {
