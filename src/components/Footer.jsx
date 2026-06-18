@@ -19,7 +19,7 @@ function Footer() {
 
         <div className="socials">
           <a
-            href="mailto:hello@ckvnx.in"
+            href="mailto:hello@ckvnx.com"
             aria-label="Email"
           >
             <EmailOutlinedIcon />
